@@ -56,5 +56,5 @@ The analysis was conducted from a **data analyst’s perspective**, with dashboa
 - Standardize manager feedback to reduce bias.  
 - Validate peer ratings against task completion and performance metrics.  
 
-## 🚀 Outcome
+## Outcome
 This project demonstrates how a data analyst can transform raw HR data into **actionable insights** and **strategic recommendations**, supporting leadership in workforce planning and employee development.
